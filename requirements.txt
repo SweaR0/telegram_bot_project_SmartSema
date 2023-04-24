@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+wikipedia
+Pillow
+requests
+python-dotenv
+peewee
